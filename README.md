@@ -13,9 +13,6 @@ A real-time drowsiness detection application that uses computer vision and facia
 - Calibration for personalized thresholds
 - Debug mode for monitoring metrics
 
-## Demo
-
-![Drowsiness Detection Demo](assets/demo.gif)
 
 ## Requirements
 
